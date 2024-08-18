@@ -2,5 +2,5 @@
 
 Este repositório contém o código para um site de anúncios voltado para a cidade de Salinas, com foco principal em bicicletas usadas.
 
-## Desenvolvedor
+## Autor
 Victor Hugo Alves Almeida
